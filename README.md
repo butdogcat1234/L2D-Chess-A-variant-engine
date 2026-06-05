@@ -8,5 +8,12 @@ Features:
 - screen fits for all devices
 - chess
 
+Things to be added:
+
+- special moves (castling, en passant, promotion)
+- dragging
+- checkmate screen (for now it's just a sound)
+
+Preview:
 
 https://youtu.be/-PK1vwFUprw
