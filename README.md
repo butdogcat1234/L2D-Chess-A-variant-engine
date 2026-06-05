@@ -6,7 +6,7 @@ Features:
 - any piece can be royal
 - rotating pieces for local play
 - screen fits for all devices
-- chess
+- automatic detections for checkmate, pins, and other stuff
 
 Things to be added:
 
