@@ -10,7 +10,7 @@ Features:
 
 Things to be added:
 
-- special moves (castling, en passant, promotion)
+- more special moves (en passant, promotion)
 - dragging
 - checkmate screen (for now it's just a sound)
 
